@@ -1,0 +1,3 @@
+[submodule "RISC v/qemu"]
+	path = RISC v/qemu
+	url = git@github.com:Kyrieorchid/qemu.git
